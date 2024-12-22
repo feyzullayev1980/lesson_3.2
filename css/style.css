@@ -1,0 +1,20 @@
+* {
+    padding: 10px;
+    margin: 10px;
+}
+
+.active {
+    background-color: aquamarine;
+}
+
+.onboarding {
+    background-color: rgb(0, 225, 255);
+}
+
+.awaiting {
+    background-color: burlywood
+}
+
+.edit {
+    color: blue;
+}
